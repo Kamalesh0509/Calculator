@@ -1,0 +1,6 @@
+body{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.274),aquamarine);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;   
+}
